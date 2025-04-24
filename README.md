@@ -2,6 +2,9 @@
 
 Meta-UI is a social media application interface built with **React Native** that mimics the Facebook-like platform. It includes features such as a customizable header, tabs for navigation, user stories, reels, and posts. 
 
+## Prototype Video
+https://youtu.be/GAYmaBYxdlE
+
 ## Features
 
 - **Header**: Includes the Facebook-like logo, search bar, and message icon.
